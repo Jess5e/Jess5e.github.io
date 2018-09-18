@@ -51,6 +51,7 @@
   }
 
   .img-desc img {
+    margin:0 auto;
     width: auto;
     height: auto;
     max-width: 100%;
