@@ -1,0 +1,30 @@
+{
+  "project":[
+    {"name": "home-01.jpg","desc": "嗨果乐园小程序<br/>这是基于微信平台开发的一款移动端购物超市，产品类型为水果、蔬菜等生鲜类日消品。"},
+    {"name": "home-02.jpg","desc": "CARBEN<br/>这是一款基于真实车主身份的垂直社交产品。"},
+    {"name": "home-03.jpg","desc": "多点APP<br/>这是一款网上超市购物手机软件，品类覆盖生鲜日百等日常消费品，依托与本地大型商超的深度结合，提供高品质、低价格、2小时送达的优质服务。"},
+    {"name": "home-04.jpg","desc": "么么钱包<br/>这是一款针对女性开发的一站式生活信用消费平台，女性用户可以在这个APP上实现从购买、借贷、还贷一站式的消费体验。"},
+    {"name": "home-05.jpg","desc": "H5静态营销页面设计案例展示。"},
+    {"name": "home-06.jpg","desc": "H5动态营销页面设计案例展示。"},
+    {"name": "home-07.jpg","desc": "一秒助听器详情页创意改版V2.0。"},
+    {"name": "home-08.jpg","desc": "英国玻儿店铺首页。"},
+    {"name": "home-09.jpg","desc": "匡迪店铺首页。"},
+    {"name": "home-10.jpg","desc": "野兽派店铺情人节活动页。"},
+    {"name": "home-11.jpg","desc": "茄子快传の太空小茄<br/>与朋友分享手机内容的急速传输工具茄子快传的使命是：人们随时随地与身边的朋友分享快乐。"},
+    {"name": "home-12.jpg","desc": "手绘作品展示。"}
+  ],
+  "bigPhoto":[
+    {"name": "big-01.jpg"},
+    {"name": "big-02.jpg"},
+    {"name": "big-03.jpg"},
+    {"name": "big-04.jpg"},
+    {"name": "big-05.jpg"},
+    {"name": "big-06.jpg"},
+    {"name": "big-07.jpg"},
+    {"name": "big-08.jpg"},
+    {"name": "big-09.jpg"},
+    {"name": "big-10.jpg"},
+    {"name": "big-11.jpg"},
+    {"name": "big-12.jpg"}
+  ]
+}
