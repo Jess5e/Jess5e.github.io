@@ -4,12 +4,6 @@ $(function () {
   $('.header').load('header.html');
   $('.go-top').load('go-top.html');
 
-  /*头部菜单点击事件*/
-  var div = $('.header .menu div');
-  $('.header').on('click', div, function () {
-    $('.link').slideToggle('fast');
-  });
-
   //加载图片并注册事件
 
   $.getJSON("./json/user.json", function (data) {

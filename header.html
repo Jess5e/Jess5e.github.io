@@ -1,4 +1,4 @@
-<div class="name col-xs-6 col-sm-6 col-md-6 col-lg-6">Jessie</div>
+<div class="name col-xs-6 col-sm-6 col-md-6 col-lg-6"><a href="about.html">Jessie</a></div>
 <div class="menu col-xs-6 col-sm-6 col-md-6 hidden-lg">
   <div>
     <span></span>
@@ -19,3 +19,12 @@
     </li>
   </ul>
 </div>
+<script>
+  $(function () {
+    var div = $('.header .menu div');
+    div.on('click', function () {
+      $('.link').slideToggle('fast');
+    });
+  })
+  
+</script>
